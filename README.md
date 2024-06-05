@@ -1,4 +1,16 @@
-### Hi there 👋
+<h1 align="center">"66 111 98 111"</h1>
+
+- 🎓 NTUT ISLAB
+
+- 🎯 My personal schedule for forums/competitions [/Schedule](https://github.com/l3inapo/Schedule)
+
+- ⛳ CTF writeups on [/My-CTF-Challenges](https://github.com/l3inapo/All_my_writeup) 
+
+- 📝 Research of paper [/Seminar-Report](https://github.com/l3inapo/ML-paper-reading)
+
+- 💻 Other works portfolio [HERE](https://github.com/l3inapo?tab=repositories)
+
+- 📫 How to reach me **jameszaq123@gmail.com**
 
 ![snake gif](https://raw.githubusercontent.com/l3inapo/l3inapo/output/github-contribution-grid-snake.svg)
 <!--
