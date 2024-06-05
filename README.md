@@ -6,7 +6,7 @@
 
 - ⛳ CTF writeups on [/My-CTF-Challenges](https://github.com/l3inapo/All_my_writeup) 
 
-- 📝 Research of paper [/Seminar-Report](https://github.com/l3inapo/ML-paper-reading)
+- 📝 Research of paper [/Paper reading](https://github.com/l3inapo/ML-paper-reading)
 
 - 💻 Other works portfolio [HERE](https://github.com/l3inapo?tab=repositories)
 
