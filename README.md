@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&pause=1000&color=4929F7&background=FFFFFF00&center=true&vCenter=true&repeat=false&width=435&lines=Welcome+to+l3obo's+GitHub)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&pause=1000&color=4929F7&background=FFFFFF00&center=true&vCenter=true&repeat=false&width=435&lines=%E2%9C%A8Welcome+to+l3obo's+GitHub+%E2%9C%A8)](https://git.io/typing-svg)
 
 - 🎓 NTUT ISLAB
 
