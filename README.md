@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&pause=1000&color=4929F7&background=FFFFFF00&center=true&vCenter=false&repeat=false&width=435&lines=%E2%9C%A8Welcome+to+l3obo's+GitHub+%E2%9C%A8)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&pause=1000&color=4929F7&background=FFFFFF00&repeat=false&width=435&lines=%E2%9C%A8Welcome+to+l3obo's+GitHub+%E2%9C%A8)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhd-ashmal38&label=Profile%20views&color=0e75b6&style=flat" alt="l3inapo" /> </p>
 
