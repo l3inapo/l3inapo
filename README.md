@@ -1,5 +1,5 @@
 <h1 align="center">"66 111 98 111"</h1>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=hello)](https://git.io/typing-svg)
 - 🎓 NTUT ISLAB
 
 - 🎯 My personal schedule for forums/competitions [/Schedule](https://github.com/l3inapo/Schedule)
