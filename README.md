@@ -12,7 +12,7 @@
 
 - 📝 Research of paper : [/Paper reading](https://github.com/l3inapo/ML-paper-reading)
 
-- 📫 How to reach me **jameszaq123@gmail.com**
+- 📫 How to reach me : **jameszaq123@gmail.com**
 
 ![snake gif](https://raw.githubusercontent.com/l3inapo/l3inapo/output/github-contribution-grid-snake.svg)
 <!--
