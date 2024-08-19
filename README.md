@@ -8,7 +8,7 @@
 
 - 🎯 My personal schedule : [/Schedule](https://github.com/l3inapo/Schedule)
 
-- ⛳ All my CTF writeups : [/My-CTF-Challenges](https://github.com/l3inapo/All_my_writeup) 
+- ⛳ All my CTF writeups : [/My-CTF-Writeups](https://github.com/l3inapo/All_my_writeup) 
 
 - 📝 Research of paper : [/Paper reading](https://github.com/l3inapo/ML-paper-reading)
 
