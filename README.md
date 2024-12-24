@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=l3inapo&label=Profile%20views&color=0e75b6&style=flat" alt="l3inapo" /> </p>
 
-- 🎓 NTUT ISLAB
+- 🎓 [NTUT ISLAB](https://is1ab.com/)
 
 - 🎯 My personal schedule : [/Schedule](https://github.com/l3inapo/Schedule)
 
